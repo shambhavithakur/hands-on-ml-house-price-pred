@@ -15,5 +15,3 @@ This project is about training a machine-learning model to predict median house 
 4. Train the model.
 
 5. Fine-tune the model.
-  
-To easily browse through the project notebook, use [NbViewer](https://nbviewer.jupyter.org/github/shambhavithakur/hands-on-ml-house-price-pred/blob/master/hands-on-ml-house-price-pred.ipynb)
